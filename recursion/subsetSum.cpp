@@ -21,7 +21,8 @@ class Solution {
   }
 };
 
-
+//T.C = O(2^n)+O(2^n log(2^n))
+//S.C = O(2^n)
 int main() {
   vector < int > arr{3,1,2};
   Solution ob;
